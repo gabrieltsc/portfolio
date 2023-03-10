@@ -16,3 +16,5 @@ Olá, Bem vindo ao meu projeto de portfólio. Aqui treinei algumas coisinhas que
 ### Gabriel Terry
 
 ### Linkedin: https://www.linkedin.com/in/gabriel-terry-de-souza-cavalcante-1b910b1b7
+
+### Site do portifolio: https://portfolio-pi-three-66.vercel.app/
