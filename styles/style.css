@@ -36,6 +36,7 @@ body{
     border-right: 1px solid var(--cor-terciaria);
     border-left: 1px solid var(--cor-terciaria);
     padding: 0px 10px;
+    vertical-align: middle;
 }
 .cabecalho__menu__link:hover{
     color: var(--cor-hover);
